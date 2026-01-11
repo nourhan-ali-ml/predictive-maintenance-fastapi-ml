@@ -228,4 +228,4 @@ If you found this project helpful, please consider giving it a ⭐!
 
 ---
 
-**Made with ❤️ for Healthcare Innovation**
+**Made with for Healthcare Innovation**
