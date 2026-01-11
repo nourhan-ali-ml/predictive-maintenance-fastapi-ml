@@ -1,4 +1,4 @@
-# 🏥 Predictive Maintenance System for Medical Equipment-API
+# 🏥 Predictive Maintenance System for Medical Equipment
 
 A machine learning-powered system that predicts maintenance needs for medical devices based on real-time sensor data, helping healthcare facilities prevent equipment failures and ensure continuous patient care.
 
@@ -228,4 +228,4 @@ If you found this project helpful, please consider giving it a ⭐!
 
 ---
 
-**Made with for Healthcare Innovation**
+**Made with ❤️ for Healthcare Innovation**
